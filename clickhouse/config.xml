@@ -28,4 +28,7 @@
               see: https://github.com/getsentry/self-hosted/issues/2832 -->
         <max_suspicious_broken_parts>10</max_suspicious_broken_parts>
     </merge_tree>
+    
+    <!-- Adicionando listen_host -->
+    <listen_host>0.0.0.0</listen_host>
 </yandex>
